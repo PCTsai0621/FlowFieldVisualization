@@ -1,5 +1,5 @@
 # FlowFieldVisualization
-This project implement a visualization tool for flow field by show a arrow map.
+This project implement a visualization tool for flow field by showing arrow map.
 
 ## Dependencies
   - OpenCV
