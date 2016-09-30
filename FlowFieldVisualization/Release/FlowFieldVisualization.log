@@ -1,0 +1,18 @@
+﻿已經開始建置於 2016/10/1 上午 12:29:52。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\pctsa_000\Desktop\PCTsai\VS2013Projects\FlowFieldVisualization\FlowFieldVisualization\FlowFieldVisualization.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Demo.cpp
+         Demo.cpp
+     1>c:\users\pctsa_000\desktop\pctsai\vs2013projects\flowfieldvisualization\flowfieldvisualization\FlowField.h(28): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\pctsa_000\desktop\pctsai\vs2013projects\flowfieldvisualization\flowfieldvisualization\FlowField.h(29): warning C4018: '<' : signed/unsigned 不相符
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pctsa_000\Desktop\PCTsai\VS2013Projects\FlowFieldVisualization\Release\FlowFieldVisualization.exe" /NOLOGO opencv_core2412.lib opencv_imgproc2412.lib opencv_highgui2412.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\pctsa_000\Desktop\PCTsai\VS2013Projects\FlowFieldVisualization\Release\FlowFieldVisualization.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\pctsa_000\Desktop\PCTsai\VS2013Projects\FlowFieldVisualization\Release\FlowFieldVisualization.lib" /MACHINE:X86 /SAFESEH Release\Demo.obj
+         Release\FlowField.obj
+         正在產生程式碼
+         已完成程式碼產生
+         FlowFieldVisualization.vcxproj -> C:\Users\pctsa_000\Desktop\PCTsai\VS2013Projects\FlowFieldVisualization\Release\FlowFieldVisualization.exe
+     1>專案 "C:\Users\pctsa_000\Desktop\PCTsai\VS2013Projects\FlowFieldVisualization\FlowFieldVisualization\FlowFieldVisualization.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.23
